@@ -17,7 +17,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://media.discordapp.net/attachments/835708339320258560/845035917362462730/favicon.png?width=449&height=449">
+  <a href="https://www.zetcon.repl.co/">
     <img src="https://media.discordapp.net/attachments/835708339320258560/845035917362462730/favicon.png?width=449&height=449" alt="Logo" width="80" height="80">
   </a>
 
