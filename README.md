@@ -28,5 +28,5 @@
   <h3 align="center">Zetco_n</h3>
 
   <p align="center">
-    Roblox Developer | Personal Website
+    Roblox Developer | Personal Website | DO NOT RE-UPLOAD THIS WEBSITE.
     <br />
