@@ -18,7 +18,7 @@
 <br />
 <p align="center">
   <a href="https://media.discordapp.net/attachments/835708339320258560/845035917362462730/favicon.png?width=449&height=449">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://media.discordapp.net/attachments/835708339320258560/845035917362462730/favicon.png?width=449&height=449" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
